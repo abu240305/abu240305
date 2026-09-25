@@ -50,6 +50,6 @@ Building Full Stack Web Applications (Information Systems, Portfolios, Landing P
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abu240305/abu240305/output/galaga-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abu240305/abu240305/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/abu240305/abu240305/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
+    <img src="https://raw.githubusercontent.com/abu240305/abu240305/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" />
   </picture>
 </p>
