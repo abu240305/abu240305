@@ -1,4 +1,4 @@
-# <img src="./assets/profile-banner.svg" alt="Aan banner" width="100%" />
+# <img src="./assets/profile-banner.svg?v=1" alt="Aan banner" width="100%" />
 
 <!-- <h1 align="center">Aan</h1> -->
 <p align="center">
